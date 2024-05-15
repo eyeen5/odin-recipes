@@ -1,4 +1,4 @@
 # odin-recipes  
 Hello
 This is a project about recipes
-Goodbye
+There are recipes for Lasagna and Cookies
